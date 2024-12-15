@@ -1,7 +1,8 @@
 {
   "packs": [
     "emoges.json",
-    "Gisgg.json"
+    "Gisgg.json",
+    "shizomaterial.json"
   ],
   "homeserver_url": "https://libra-status.ru"
 }
