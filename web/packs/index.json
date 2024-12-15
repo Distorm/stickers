@@ -1,6 +1,7 @@
 {
   "packs": [
-    "emoges.json"
+    "emoges.json",
+    "Gisgg.json"
   ],
   "homeserver_url": "https://libra-status.ru"
 }
