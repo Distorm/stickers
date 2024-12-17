@@ -1,11 +1,9 @@
 {
   "packs": [
-    "emoges.json",
     "Gisgg.json",
     "shizomaterial.json",
     "spbfd13c4af6c1e95443e1c781109df177_by_stckrRobot.json",
-    "DDDDDFF_by_stickers_stealer_bot.json",
-    "Gachimuchi_Animation.json"
+    "DDDDDFF_by_stickers_stealer_bot.json"
   ],
   "homeserver_url": "https://libra-status.ru"
 }
